@@ -18,17 +18,18 @@ https://lukecallahan.github.io/portfolio/
 
 ## Setup Instructions
 Clone this repo using the following link: https://github.com/LukeCallahan/portfolio
-
+<pre>test code </pre>
 
 ## Known Bugs
 The site functions correctly as is.
-Areas of improvement are as follow:
-About Me Section
-Site Header
-Project Card Height alignment
+
+Areas of improvement are as follows:
+- About Me Section
+- Site Header
+- Project Card Height alignment
 
 ### Copyright
-Code and documentation copyright 2011–2022 the Luke Callahan. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2022 the Luke Callahan. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 ### Date
 Produced October 14, 2022

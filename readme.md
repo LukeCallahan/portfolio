@@ -17,8 +17,9 @@ https://lukecallahan.github.io/portfolio/
 - Bootstrap Library
 
 ## Setup Instructions
-Clone this repo using the following link: https://github.com/LukeCallahan/portfolio
-<pre>test code </pre>
+
+1. <pre>git clone https://github.com/LukeCallahan/portfolio</pre>
+2. Open index.html in your browser of choice.
 
 ## Known Bugs
 The site functions correctly as is.

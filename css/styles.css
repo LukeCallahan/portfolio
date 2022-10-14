@@ -4,3 +4,13 @@
   background-size: cover;
   height: 100%
 }
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+button.btn {
+  margin-top: auto;
+
+}

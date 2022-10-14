@@ -25,9 +25,9 @@ https://lukecallahan.github.io/portfolio/
 The site functions correctly as is.
 
 Areas of improvement are as follows:
-- Align text to the right on the "My Favorite Things" section.
 - Make all the Project cards the same height and size
 - Add some padding in between the two rows of Project cards.
+- Improve the layout of the About Me Section.
 
 ### Copyright
 Code and documentation copyright 2022 the Luke Callahan. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).

@@ -28,7 +28,7 @@ Site Header
 Project Card Height alignment
 
 ### Copyright
-Code and documentation copyright 2011–2022 the Luke Callahan. Code released under the [MIT License] (https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons] (https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2011–2022 the Luke Callahan. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 ### Date
 Produced October 14, 2022

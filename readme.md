@@ -11,7 +11,7 @@ A simple portfolio showing what I, with others, have accomplished in this first 
 Link to Git Hub Pages - This site can be viewed at the following url on github pages: 
 https://lukecallahan.github.io/portfolio/
 
-## Technologies Used:
+## Technologies Used
 - Html
 - CSS
 - Bootstrap Library
